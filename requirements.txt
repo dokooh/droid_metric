@@ -21,3 +21,4 @@ mmcv
 timm
 html4vision
 plyfile
+py3_wget
